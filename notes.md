@@ -31,4 +31,17 @@ origin, clone from, push to
 
 git status
 
+... crashed ...
+
+fork in webpage, copy link
+
+https keeps prompting for passwords
+change preferance to ssh (can set up to remember password)
+
+ssh-keygen
+
+git remote set-url origin copied-link
+
+git push origin master
+
 
