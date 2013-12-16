@@ -43,7 +43,7 @@ git diff
 
 git config --list
 
-git config --global user.email chebegeek@gmail.com
+git config --global user.email user@example.com
 git config --global user.name "name"
 
 git push (see later)
