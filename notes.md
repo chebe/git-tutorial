@@ -31,6 +31,23 @@ origin, clone from, push to
 
 git status
 
+edit file
+
+git add filename (to staging)
+
+git commit (to local)
+git commit -m "commit message"
+
+git log
+git diff
+
+git config --list
+
+git config --global user.email chebegeek@gmail.com
+git config --global user.name "name"
+
+git push (see later)
+
 ... crashed ...
 
 fork in webpage, copy link
@@ -44,4 +61,11 @@ git remote set-url origin copied-link
 
 git push origin master
 
+pull request - ask forked repo to pull/take changes from me
 
+
+git pull (pull updates from the origin)
+
+git remote -v
+
+git remote pyladies link
