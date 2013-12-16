@@ -19,3 +19,16 @@
 - Linux used BitKeeper (which derived from Sun TeamWare, built on SCCS + NFS) until there was a license fall out
 
 - Linus wrote Git (coincidentally another kernel developer wrote Mercurial)
+
+# My Notes
+
+git clone https://github.com/PyLadiesDublin/git-tutorial.git
+
+.md files, stuff you're working on, workpath
+add changes you want to make to the index/staging area
+commit, to actually save, to local copy of repo
+origin, clone from, push to
+
+git status
+
+
